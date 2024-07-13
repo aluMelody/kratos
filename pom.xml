@@ -55,17 +55,4 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
-        <repository>
-            <id>be-public</id>
-            <name>be public repository</name>
-            <url>http://10.12.0.78:8081/repository/releases</url>
-        </repository>
-        <snapshotRepository>
-            <id>be-snapshots</id>
-            <name>be public repository</name>
-            <url>http://10.12.0.78:8081/repository/snapshots</url>
-        </snapshotRepository>
-    </distributionManagement>
-
 </project>
